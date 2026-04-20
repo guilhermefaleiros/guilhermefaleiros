@@ -23,19 +23,15 @@
 
 ---
 
-## Sobre / About
-
-Sou Senior Software Engineer com foco em backend, arquitetura de sistemas distribuídos e engenharia de plataformas. Ao longo da minha carreira, atuei na construção e evolução de sistemas críticos, orientados a eventos e preparados para escala, confiabilidade e crescimento sustentável.
+## About
 
 I am a Senior Software Engineer focused on backend engineering, distributed systems architecture, and platform engineering. Throughout my career, I have worked on building and evolving critical event-driven systems designed for scale, reliability, and sustainable growth.
-
-Hoje, concentro minha atuação em decisões arquiteturais, qualidade técnica, padronização, observabilidade e aceleração de times por meio de boas práticas de engenharia e uso aplicado de IA.
 
 Today, my work is centered on architecture decisions, technical quality, standardization, observability, and team acceleration through strong engineering practices and applied AI.
 
 ---
 
-## Especialidades / Core Expertise
+## Core Expertise
 
 - Backend engineering with **Kotlin, Java, Golang, Python, and Node.js**
 - **Distributed systems**, event-driven architecture, microservices, and scalable platform design
@@ -47,18 +43,18 @@ Today, my work is centered on architecture decisions, technical quality, standar
 
 ---
 
-## Experiência em destaque / Selected Experience
+## Selected Experience
 
 ### iFood
-- Designed and evolved platform capabilities that support critical business flows and large-scale operation
+- Designed and evolved platform capabilities that support critical business flows and large-scale operations
 - Contributed to platforms enabling **millions of notifications per day** and high-availability service expectations
-- Acted in offer-platform initiatives that support thousands of daily leads and product expansion across Brazil
-- Drove architecture decisions, technical standards, and adoption of AI-assisted engineering workflows
+- Worked on offer-platform initiatives that support thousands of daily leads and product expansion across Brazil
+- Drove architecture decisions, technical standards, and the adoption of AI-assisted engineering workflows
 
 ### CEIA-UFG
-- Built internal AI agents platform for ideation and corporate project support
+- Built an internal AI agents platform for ideation and corporate project support
 - Implemented **RAG-based solutions** with LangChain and Langflow over internal knowledge bases
-- Supported real innovation contexts with organizations such as **SEBRAE, Comgás, and CEIA**
+- Supported real-world innovation initiatives with organizations such as **SEBRAE, Comgás, and CEIA**
 
 ### QuintoAndar
 - Worked on credit and insurance product evolution in a complex financial domain
@@ -83,7 +79,7 @@ Today, my work is centered on architecture decisions, technical quality, standar
 ![DDD](https://img.shields.io/badge/-DDD-0A0A0A?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-0A0A0A?style=flat)
 
-### Cloud, DevOps & Infra
+### Cloud, DevOps & Infrastructure
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -110,7 +106,7 @@ Today, my work is centered on architecture decisions, technical quality, standar
 
 ---
 
-## O que eu construo / What I Build
+## What I Build
 
 - Scalable backend services and internal platforms
 - Event-driven systems for business-critical workflows
@@ -120,7 +116,7 @@ Today, my work is centered on architecture decisions, technical quality, standar
 
 ---
 
-## Princípios de engenharia / Engineering Principles
+## Engineering Principles
 
 - Build for **clarity, scalability, and maintainability**
 - Prefer **simple and robust solutions** over unnecessary complexity
@@ -130,14 +126,14 @@ Today, my work is centered on architecture decisions, technical quality, standar
 
 ---
 
-## Formação / Education
+## Education
 
 - **MBA in Software Engineering with Artificial Intelligence** — Full Cycle *(in progress)*
 - **B.Sc. in Software Engineering** — Federal University of Goiás (UFG)
 
 ---
 
-## Vamos nos conectar / Let's Connect
+## Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/guilherme-faleiros-de-siqueira/">LinkedIn</a> •
